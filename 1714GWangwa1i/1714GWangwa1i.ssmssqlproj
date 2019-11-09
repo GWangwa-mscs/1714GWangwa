@@ -2,10 +2,30 @@
 <SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="1714GWangwa1i">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
-      <Items />
+      <Items>
+        <ConnectionNode Name="DESKTOP-GO5OLIG:DESKTOP-GO5OLIG\jissy">
+          <Created>2019-11-05T14:25:03.2240379-06:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-GO5OLIG</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>GreenLineAutoGarage</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
-      <Items />
+      <Items>
+        <FileNode Name="GreenLineAutoGarage.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GO5OLIG:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-GO5OLIG</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>GreenLineAutoGarage.sql</FullPath>
+        </FileNode>
+      </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
       <Items>
@@ -20,6 +40,42 @@
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>1714UserStories.html</FullPath>
+        </FileNode>
+        <FileNode Name="Invoice_Table.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Invoice_Table.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="LineItem_Table.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>LineItem_Table.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="Person_Table.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Person_Table.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="Receipt_Table.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Receipt_Table.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="Service_Table.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Service_Table.PNG</FullPath>
+        </FileNode>
+        <FileNode Name="Vehicle_Table.PNG">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Vehicle_Table.PNG</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
