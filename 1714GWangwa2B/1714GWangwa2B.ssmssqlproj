@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="1714GWangwa2A">
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="1714GWangwa2B">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
         <ConnectionNode Name="DESKTOP-GO5OLIG:DESKTOP-GO5OLIG\jissy">
-          <Created>2019-11-07T13:19:59.2096901-06:00</Created>
+          <Created>2019-11-08T23:42:18.7848256-06:00</Created>
           <Type>SQL</Type>
           <Server>DESKTOP-GO5OLIG</Server>
           <UserName />
@@ -13,87 +13,75 @@
           <LoginTimeout>30</LoginTimeout>
           <ExecutionTimeout>0</ExecutionTimeout>
           <ConnectionProtocol>NotSpecified</ConnectionProtocol>
-          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+          <ApplicationName />
         </ConnectionNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="PropertyManagement2.sql">
+        <FileNode Name="1714Exercise2B.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GO5OLIG:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-GO5OLIG</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>PropertyManagement2.sql</FullPath>
-        </FileNode>
-        <FileNode Name="SQLQuery13.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-GO5OLIG:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-GO5OLIG</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>SQLQuery13.sql</FullPath>
+          <FullPath>1714Exercise2B.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
       <Items>
-        <FileNode Name="DatabaseDiagram_0.PNG">
+        <FileNode Name="QueryTest2B1.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>DatabaseDiagram_0.PNG</FullPath>
+          <FullPath>QueryTest2B1.PNG</FullPath>
         </FileNode>
-        <FileNode Name="QueryTest2A1.PNG">
+        <FileNode Name="QueryTest2B2.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>QueryTest2A1.PNG</FullPath>
+          <FullPath>QueryTest2B2.PNG</FullPath>
         </FileNode>
-        <FileNode Name="QueryTest2A2.PNG">
+        <FileNode Name="QueryTest2B3.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>QueryTest2A2.PNG</FullPath>
+          <FullPath>QueryTest2B3.PNG</FullPath>
         </FileNode>
-        <FileNode Name="QueryTest2A3.PNG">
+        <FileNode Name="QueryTest2B4.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>QueryTest2A3.PNG</FullPath>
+          <FullPath>QueryTest2B4.PNG</FullPath>
         </FileNode>
-        <FileNode Name="QueryTest2A4.PNG">
+        <FileNode Name="QueryTest2B5.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>QueryTest2A4.PNG</FullPath>
+          <FullPath>QueryTest2B5.PNG</FullPath>
         </FileNode>
-        <FileNode Name="QueryTest2A5.PNG">
+        <FileNode Name="QueryTest2B6.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>QueryTest2A5.PNG</FullPath>
+          <FullPath>QueryTest2B6.PNG</FullPath>
         </FileNode>
-        <FileNode Name="QueryTest2A6.PNG">
+        <FileNode Name="QueryTest2B7.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>QueryTest2A6.PNG</FullPath>
+          <FullPath>QueryTest2B7.PNG</FullPath>
         </FileNode>
-        <FileNode Name="QueryTest2A7.PNG">
+        <FileNode Name="QueryTest2B8.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>QueryTest2A7.PNG</FullPath>
+          <FullPath>QueryTest2B8.PNG</FullPath>
         </FileNode>
-        <FileNode Name="QueryTest2A8.PNG">
+        <FileNode Name="QueryTest2B9.PNG">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
-          <FullPath>QueryTest2A8.PNG</FullPath>
-        </FileNode>
-        <FileNode Name="QueryTest2A9.PNG">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
-          <FullPath>QueryTest2A9.PNG</FullPath>
+          <FullPath>QueryTest2B9.PNG</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
